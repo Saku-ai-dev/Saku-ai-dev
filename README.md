@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Saku-ai-dev
 
-<!--
-**Saku-ai-dev/Saku-ai-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI・業務自動化ツールの開発者 | 請求書自動化・チャットボット・社内ダッシュボード
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+- AIを活用した業務効率化システムを独学で開発
+- 請求書処理の自動化・社内チャットボット・管理ダッシュボードなど5件以上の実績
+- 要件定義から設計・実装・リリースまで一人で一貫して対応
+- 非同期・フルリモートでの対応が可能
+
+---
+
+## Projects
+
+### 請求書自動処理ツール
+PDFから金額・日付・取引先を自動抽出しスプレッドシートへ出力  
+`OpenAI API` `Kiro`
+
+### 社内問い合わせBot
+FAQドキュメントをもとに質問へ自動回答するチャットボット  
+`RAG` `Kiro`
+
+### 管理ダッシュボード
+業務データをリアルタイムで可視化する社内向けWebアプリ  
+`Webアプリ` `Kiro`
+
+---
+
+## Contact
+
+お仕事のご相談はGitHubのIssueまたはプロフィールのメールアドレスよりお気軽にどうぞ。
